@@ -1,0 +1,63 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Everton Fernandes — IAVerde">
+  <defs>
+    <!-- gradient de fundo -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#031527"/>
+      <stop offset="100%" stop-color="#0C1414"/>
+    </linearGradient>
+
+    <!-- arco cyan (como no símbolo) -->
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22C7F0"/>
+      <stop offset="100%" stop-color="#0B6FB7"/>
+    </linearGradient>
+
+    <!-- arco lime -->
+    <linearGradient id="lime" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D7FF39"/>
+      <stop offset="100%" stop-color="#4FD448"/>
+    </linearGradient>
+
+    <!-- grid pattern sutil -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1BAED7" stroke-width="0.4" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- arcos decorativos ecoando o símbolo da logo -->
+  <g transform="translate(1020, 160)">
+    <!-- arco cyan exterior -->
+    <path d="M -90,0 A 90,90 0 1,1 90,0" fill="none" stroke="url(#cyan)" stroke-width="10" stroke-linecap="round"/>
+    <!-- arco lime inferior (setinha) -->
+    <path d="M -70,50 A 90,90 0 0,0 70,50" fill="none" stroke="url(#lime)" stroke-width="8" stroke-linecap="round"/>
+    <!-- barras de gráfico no centro -->
+    <rect x="-40" y="-20" width="12" height="40" fill="url(#lime)" rx="2"/>
+    <rect x="-22" y="-35" width="12" height="55" fill="url(#lime)" rx="2"/>
+    <rect x="-4"  y="-45" width="12" height="65" fill="url(#lime)" rx="2"/>
+    <rect x="14"  y="-30" width="12" height="50" fill="url(#lime)" rx="2"/>
+    <!-- folha estilizada -->
+    <ellipse cx="10" cy="-58" rx="14" ry="9" fill="#87F17D" transform="rotate(-25 10 -58)"/>
+  </g>
+
+  <!-- linha vertical sutil separando logo do texto -->
+  <line x1="900" y1="80" x2="900" y2="240" stroke="#1BAED7" stroke-width="1" opacity="0.25"/>
+
+  <!-- eyebrow -->
+  <text x="80" y="110" font-family="'JetBrains Mono', monospace" font-size="12" fill="#22C7F0" letter-spacing="3">// RIO DE JANEIRO · BRASIL</text>
+
+  <!-- nome grande -->
+  <text x="80" y="175" font-family="'Inter Tight', Inter, sans-serif" font-size="58" font-weight="700" fill="#F2F0EC" letter-spacing="-1.5">Everton Fernandes</text>
+
+  <!-- role -->
+  <text x="80" y="215" font-family="'Inter Tight', Inter, sans-serif" font-size="17" fill="#8EBCA4" font-weight="400">Estudante de Economia · Founder @ IAVerde · Estagiário @ BNDES</text>
+
+  <!-- tagline com accent lime -->
+  <text x="80" y="252" font-family="'JetBrains Mono', monospace" font-size="13" fill="#D7FF39" opacity="0.9">→ Tecnologia aplicada para inovação com impacto real</text>
+
+  <!-- hairline bottom -->
+  <rect x="0" y="318" width="1200" height="2" fill="url(#cyan)" opacity="0.6"/>
+</svg>
