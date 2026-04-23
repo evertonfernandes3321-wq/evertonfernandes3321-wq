@@ -28,11 +28,5 @@ Minha curiosidade vive na interseção entre economia, código e política públ
 Estudando IA dos fundamentos à produção — matemática, estatística, ML clássico e deep learning — seguindo um roadmap pessoal que combina Karpathy, fast.ai, IMPA e leitura de papers. Paralelamente exploro desenvolvimento de aplicativos, backend em cloud e análise de dados aplicada a políticas públicas. No BNDES desenvolvo ferramentas internas em Python.
 
 <p align="center">
-  <a href="https://instagram.com/everton7f"><img src="https://img.shields.io/badge/Instagram-D7FF39?style=flat-square&logo=instagram&logoColor=0C1414&labelColor=0C1414" /></a>
-  <a href="https://x.com/everton545"><img src="https://img.shields.io/badge/X-D7FF39?style=flat-square&logo=x&logoColor=0C1414&labelColor=0C1414" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100094235089119"><img src="https://img.shields.io/badge/Facebook-D7FF39?style=flat-square&logo=facebook&logoColor=0C1414&labelColor=0C1414" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=evertonfernandes3321-wq&label=visitantes&color=22C7F0&style=flat-square&labelColor=0C1414" />
 </p>
