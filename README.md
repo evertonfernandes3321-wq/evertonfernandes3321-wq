@@ -19,13 +19,19 @@
 
 ## Sobre
 
-Estudante de Economia apaixonado por tecnologia, dados e inteligência artificial. Fundador da **[IAVerde](https://iaverde.ia.br)**, startup brasileira de base tecnológica que desenvolve software, IA aplicada e infraestrutura digital para resolver problemas concretos com impacto mensurável.
+Estudante de Economia apaixonado por tecnologia, dados e inteligência artificial. Fundador e CEO da **[IAVerde](https://iaverde.ia.br)**, startup brasileira de base tecnológica que desenvolve software, IA aplicada e infraestrutura digital para resolver problemas concretos com impacto mensurável. A empresa nasceu da convicção de que tecnologia bem aplicada pode — e deve — ser motor de transformação econômica e social no Brasil.
 
-Minha curiosidade vive na interseção entre economia, código e política pública — com histórico de pesquisa acadêmica e atuação direta na análise de planos de governo e elaboração de Planos de Desenvolvimento Econômico Municipal para o fortalecimento da economia local.
+Minha trajetória é deliberadamente multidisciplinar: transito entre análise econômica, desenvolvimento de software e pesquisa acadêmica aplicada. Atuo também como estagiário no BNDES, onde desenvolvo ferramentas internas em Python, e mantenho histórico de pesquisa voltado a dados aplicados a políticas públicas — incluindo análise de planos de governo e elaboração de Planos de Desenvolvimento Econômico Municipal para o fortalecimento da economia local.
+
+Acredito que os problemas mais interessantes do nosso tempo vivem justamente nas interseções — entre economia e tecnologia, entre teoria e prática, entre dado e decisão. É nesse encontro que tento construir.
 
 ## Foco atual
 
-Estudando IA dos fundamentos à produção — matemática, estatística, ML clássico e deep learning — seguindo um roadmap pessoal que combina Karpathy, fast.ai, IMPA e leitura de papers. Paralelamente exploro desenvolvimento de aplicativos, backend em cloud e análise de dados aplicada a políticas públicas. No BNDES desenvolvo ferramentas internas em Python.
+Dedico uma parcela significativa do meu tempo estudando inteligência artificial dos fundamentos à produção — matemática, estatística, machine learning clássico e deep learning. Sigo um roadmap pessoal que combina referências que considero essenciais: o *Neural Networks: Zero to Hero* do Karpathy, o *Practical Deep Learning for Coders* do fast.ai, o Mestrado em Machine Learning do IMPA e leitura regular de papers. Atualmente também curso o programa de Engenheiro de Agentes de IA da Asimov Academy, explorando a fundo o framework Agno.
+
+Em paralelo, construo produtos e exploro tecnologias em ritmo constante. Desenvolvo aplicativos, migro APIs de Node.js para AWS — estudando simultaneamente para as certificações Solutions Architect — e aprofundo o uso de análise de dados em Python, R e Excel avançado. No BNDES, minhas entregas envolvem ferramentas internas que vão de verificação e análise semântica com modelos locais até pipelines de organização de dados institucionais.
+
+No centro disso tudo, meu interesse maior continua sendo **inteligência artificial, dados aplicados a políticas públicas** — e cada ferramenta nova que aprendo é, no fundo, uma forma de me aproximar dessa aplicação.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=evertonfernandes3321-wq&label=visitantes&color=22C7F0&style=flat-square&labelColor=0C1414" />
