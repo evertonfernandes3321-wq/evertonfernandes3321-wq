@@ -19,20 +19,16 @@
 
 ## Sobre
 
-Estudante de Economia apaixonado por tecnologia, dados e inteligência artificial. Fundador e CEO da **[IAVerde](https://iaverde.ia.br)**, startup brasileira de base tecnológica que desenvolve software, IA aplicada e infraestrutura digital para resolver problemas concretos com impacto mensurável. A empresa nasceu da convicção de que tecnologia bem aplicada pode — e deve — ser motor de transformação econômica e social no Brasil.
+Estudante de Economia apaixonado por tecnologia, dados e inteligência artificial. Fundador e CEO da **[IAVerde](https://iaverde.ia.br)**, uma startup brasileira de base tecnológica que desenvolve software, IA aplicada e infraestrutura digital para resolver problemas concretos com impacto mensurável. A empresa nasceu da ideia de que tecnologia bem aplicada pode ser um motor real de transformação econômica e social no Brasil. Parte dessa visão passa por desenvolver IA local, reduzindo a dependência de infraestrutura estrangeira e construindo autonomia tecnológica brasileira.
 
-Minha trajetória é deliberadamente multidisciplinar: transito entre análise econômica, desenvolvimento de software e pesquisa acadêmica aplicada. Atuo também como estagiário no BNDES, onde desenvolvo ferramentas internas em Python, e mantenho histórico de pesquisa voltado a dados aplicados a políticas públicas — incluindo análise de planos de governo e elaboração de Planos de Desenvolvimento Econômico Municipal para o fortalecimento da economia local.
+Minha trajetória é bem multidisciplinar. Transito entre análise econômica, desenvolvimento de software e aplicação prática de dados no dia a dia. Também atuo como estagiário no BNDES, onde desenvolvo ferramentas internas em Python, e tenho histórico de trabalho com dados aplicados a políticas públicas, incluindo análise de planos de governo e elaboração de Planos de Desenvolvimento Econômico Municipal para o fortalecimento da economia local.
 
-Acredito que os problemas mais interessantes do nosso tempo vivem justamente nas interseções — entre economia e tecnologia, entre teoria e prática, entre dado e decisão. É nesse encontro que tento construir.
+Acredito que os problemas mais interessantes moram nas interseções. Entre economia e tecnologia, entre teoria e prática, entre dado e decisão. É nesse encontro que gosto de construir.
 
 ## Foco atual
 
-Dedico uma parcela significativa do meu tempo estudando inteligência artificial dos fundamentos à produção — matemática, estatística, machine learning clássico e deep learning. Sigo um roadmap pessoal que combina referências que considero essenciais: o *Neural Networks: Zero to Hero* do Karpathy, o *Practical Deep Learning for Coders* do fast.ai, o Mestrado em Machine Learning do IMPA e leitura regular de papers. Atualmente também curso o programa de Engenheiro de Agentes de IA da Asimov Academy, explorando a fundo o framework Agno.
+Boa parte do meu tempo hoje é dedicada a estudar inteligência artificial de verdade, indo dos fundamentos até a produção. Matemática, estatística, machine learning clássico e deep learning, tudo seguindo um roadmap pessoal que mistura os cursos do Karpathy, do fast.ai e do IMPA. Estou também cursando o programa de Engenheiro de Agentes de IA da Asimov Academy, onde venho explorando o framework Agno.
 
-Em paralelo, construo produtos e exploro tecnologias em ritmo constante. Desenvolvo aplicativos, migro APIs de Node.js para AWS — estudando simultaneamente para as certificações Solutions Architect — e aprofundo o uso de análise de dados em Python, R e Excel avançado. No BNDES, minhas entregas envolvem ferramentas internas que vão de verificação e análise semântica com modelos locais até pipelines de organização de dados institucionais.
+Em paralelo, construo bastante. Desenvolvo aplicativos, estou migrando APIs de Node.js para AWS (enquanto me preparo para as certificações Solutions Architect), e uso Python, R e Excel avançado para análise de dados no dia a dia. No BNDES, minhas entregas vão de ferramentas de verificação e análise até pipelines de organização de dados institucionais.
 
-No centro disso tudo, meu interesse maior continua sendo **inteligência artificial, dados aplicados a políticas públicas** — e cada ferramenta nova que aprendo é, no fundo, uma forma de me aproximar dessa aplicação.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evertonfernandes3321-wq&label=visitantes&color=22C7F0&style=flat-square&labelColor=0C1414" />
-</p>
+Um interesse constante nos meus projetos é a viabilização de IA rodando localmente, sem dependência de serviços externos. É o tipo de problema que une as frentes que mais gosto: engenharia de software, infraestrutura e a discussão mais ampla sobre autonomia tecnológica.
