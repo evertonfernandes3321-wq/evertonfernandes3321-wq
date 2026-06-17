@@ -32,3 +32,14 @@ Boa parte do meu tempo hoje é dedicada a estudar inteligência artificial de ve
 Em paralelo, construo bastante. Desenvolvo aplicativos, estou migrando APIs de Node.js para AWS (enquanto me preparo para as certificações Solutions Architect), e uso Python, R e Excel avançado para análise de dados no dia a dia. No BNDES, minhas entregas vão de ferramentas de verificação e análise até pipelines de organização de dados institucionais.
 
 Um interesse constante nos meus projetos é a viabilização de IA rodando localmente, sem dependência de serviços externos. É o tipo de problema que une as frentes que mais gosto: engenharia de software, infraestrutura e a discussão mais ampla sobre autonomia tecnológica.
+
+## Projetos públicos e prática de engenharia
+
+- **[github-achievements-lab](https://github.com/evertonfernandes3321-wq/github-achievements-lab)**: laboratório público para praticar fluxo profissional com issues, pull requests, documentação, revisão e GitHub Actions.
+
+## Princípios de trabalho
+
+- Documentação simples, útil e próxima do código.
+- Pull requests pequenos, com escopo claro e histórico limpo.
+- Segurança antes de conveniência: nada de segredos, tokens ou dados sensíveis em repositórios públicos.
+- Automação como apoio ao processo, não como substituta de revisão.
